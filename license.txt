@@ -1,0 +1,10 @@
+src/images/
+ - mir.svg – https://svg4.ru/icons/mir-2
+ - amex.svg – https://svg4.ru/icons/amex-5
+ - jcb.svg – https://svg4.ru/icons/jcb-4
+ - diners.svg – https://svg4.ru/icons/diners-2
+ - visa.svg – https://svg4.ru/icons/visa-6
+ - mastercard.svg – https://svg4.ru/icons/mastercard-8
+ - maestro.svg – https://svg4.ru/icons/maestro-3
+ - unionpay.svg – https://svg4.ru/icons/unionpay-3
+ - discover.svg – https://svg4.ru/icons/discover-6

@@ -1,0 +1,57 @@
+h1 {
+    font-size: 40px;
+}
+
+.cards {
+    list-style: none;
+    padding: 0;
+    height: 35px;
+}
+
+.card {
+    float: left;
+    width: 55px;
+    height: 35px;
+    border: black solid 1px;
+    border-radius: 10px;
+    margin: 1px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    filter: grayscale(1);
+    opacity: 0.5;
+}
+
+.active {
+    filter: grayscale(0);
+    opacity: 1;
+}
+
+.card-form {
+    font-size: 30px;
+}
+
+.card-form-control {
+    width: 280px;
+    padding: 5px;
+    font-size: 0.85em;
+}
+
+.card-form-submit {
+    padding: 5px 15px;
+    font-size: 1em;
+    color: white;
+    cursor: pointer;
+    background-color: #5cb85c;
+    border: 2px solid #4cae4c;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.card-form-submit:hover {
+    background-color: #4cae4c;
+}
+
+.validation-result {
+    margin: 10px;
+}
